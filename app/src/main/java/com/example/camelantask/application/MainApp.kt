@@ -9,7 +9,7 @@ import com.example.camelantask.network.ApiClient
 import org.koin.android.ext.koin.androidContext
 import org.koin.core.context.startKoin
 
-class MainApp : MultiDexApplication() {
+class MainApp : Application() {
     override fun onCreate() {
         super.onCreate()
         initClass()
