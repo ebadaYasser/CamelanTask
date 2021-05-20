@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CamelanTask</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="near_by">Near By</string>
+    <string name="please_wait">Please wait ....</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="no_data_found">No data found!!</string>
+    <string name="somthing_went_wrong">Something went wrong !!</string>
+    <string name="gps_status_enabled">GPS enabled</string>
+    <string name="gps_status_disabled">GPS disabled</string>
+    <string name="single_update">Single Update</string>
+    <string name="real_time">Real time</string>
+</resources>
